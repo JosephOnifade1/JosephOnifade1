@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosephOnifade1
+- 👋 Hi, I’m @Joseph Onifade
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Blockchain Development and Frontend Development
 - 💞️ I’m looking to collaborate with Blockchain Developers and Web Developers
