@@ -101,8 +101,8 @@ I'm available for freelance projects — bug fixes, full builds, automations, or
 > **Clients get:** async communication, fast turnaround, and a developer who actually reads the brief.
 
 - 📩 **Email:** josephonifade08@gmail.com
-- 💼 **Upwork:** upwork.com/freelancers/~01a476791ed9f8b084?mp_source=share
-- 🔗 **LinkedIn:** linkedin.com/in/joseph-onifade-ol
+- 💼 **Upwork:** www.upwork.com/freelancers/~01a476791ed9f8b084?mp_source=share
+- 🔗 **LinkedIn:** www.linkedin.com/in/joseph-onifade-ol
 
 ---
 
