@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Jospeed 👋
+# Hey, I'm Joseph 👋
 ### Full-Stack Developer · 3D Designer · Automation Engineer
 
 *I build things that work, look great, and scale.*
