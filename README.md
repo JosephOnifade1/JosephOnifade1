@@ -58,7 +58,7 @@ Currently balancing client work with an Industrial Design degree, which is part 
 
 ## Featured Work
 
-### Hobnob AI — Multi-Model AI Chat Platform
+### Noolly AI — Multi-Model AI Chat Platform
 Chat platform routing between Claude, GPT, and Grok, built on Supabase Edge Functions. Full custom design system ("ink-green lounge" — dark ground, brass accent) and hand-built UI, no template scaffolding.
 
 ### SoleForge — 3D Sneaker Configurator
