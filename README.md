@@ -107,9 +107,9 @@ React Native / Expo app built for a GCC motor community client — fully async d
 Open to freelance projects — full builds, automation systems, AI integrations, or 3D/product work. Async-first, fast turnaround, and I actually read the brief before quoting.
 
 - **Email:** josephonifade08@gmail.com
-- **Upwork:** upwork.com/freelancers/~01a476791ed9f8b084
-- **LinkedIn:** linkedin.com/in/joseph-onifade-ol
-- **Portfolio:** jospeed-portfolio.vercel.app
+- **Upwork:** https://upwork.com/freelancers/~01a476791ed9f8b084
+- **LinkedIn:** https://linkedin.com/in/joseph-onifade-ol
+- **Portfolio:** https://jospeed-portfolio.vercel.app
 
 <div align="center">
 
