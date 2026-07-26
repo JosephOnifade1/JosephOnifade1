@@ -109,7 +109,7 @@ Open to freelance projects — full builds, automation systems, AI integrations,
 - **Email:** josephonifade08@gmail.com
 - **Upwork:** https://upwork.com/freelancers/~01a476791ed9f8b084
 - **LinkedIn:** https://linkedin.com/in/joseph-onifade-ol
-- **Portfolio:** https://jospeed-portfolio.vercel.app
+- **Portfolio:** https://buildwithjospeed.vercel.app/
 
 <div align="center">
 
