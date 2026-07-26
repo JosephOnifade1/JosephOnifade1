@@ -5,7 +5,7 @@
 
 *I build products that ship — clean code, real automation, and 3D work that doesn't look like a stock asset.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4D2622?style=for-the-badge)](https://jospeed-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4D2622?style=for-the-badge)](https://buildwithjospeed.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-onifade-ol)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a476791ed9f8b084?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](#)
