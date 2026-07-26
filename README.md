@@ -1,6 +1,6 @@
 <div align="left">
 
-# Joseph Onifade
+# I am Joseph Onifade
 ### Full-Stack Developer · AI Automation Engineer · 3D Designer
 
 *I build products that ship — clean code, real automation, and 3D work that doesn't look like a stock asset.*
